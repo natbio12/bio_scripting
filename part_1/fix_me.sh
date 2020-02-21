@@ -1,10 +1,21 @@
 #!/bin/bash
 
 # Reading data from the user's input
+
+#Information for the new users
+echo 'For the next variables only enter numbers'
+
 echo 'Enter a : '
 read a
+if ![[$a =~ ^[0-9]+$]]
+then echo 'Try only with integers'
+fi 
+
 echo 'Enter b : ' 
 read b
+if ![[$b =~ ^[0-9]+$]] 
+then echo 'Try only with integers' 
+fi 
 
 add=$((a + b))
 
