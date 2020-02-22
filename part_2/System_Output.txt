@@ -1,0 +1,8 @@
+Date and Time: Fri Feb 21 17:37:43 CST 2020 
+ Users: asndcy asninstall asninstall asninstall aubcls102 aubcls166 aubcls50 aubcls93 aubcls93 ualdys ualkwk ualljq ualpss usacls07 
+ Uptime:  14 users   load average,  0.05 hours,  0.05 minutes.
+
+Date and Time: Fri Feb 21 18:38:35 CST 2020 
+ Users: asndcy asninstall asninstall asninstall aubcls102 aubcls93 aubcls93 aubcls93 ualdys usacls07 
+ Uptime:  10 users   load average,  0.00 hours,  0.02 minutes.
+
