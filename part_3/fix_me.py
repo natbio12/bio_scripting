@@ -7,7 +7,7 @@ print("You entered",a,", which is a", type(a))
 
 b = input("Enter b : ")
 
-print("You entered", b, "which is a", type(b))
+print("You entered",b,", which is a", type(b))
 
 
 #######################################################################
