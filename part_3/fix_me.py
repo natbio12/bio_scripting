@@ -3,7 +3,7 @@
 # Reading data from the user's input
 a = input("Enter a : ")
 
-print("You entered", a, "which is a", type(a))
+print("You entered",a,", which is a", type(a))
 
 b = input("Enter b : ")
 
